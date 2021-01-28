@@ -1,70 +1,24 @@
-# Getting Started with Create React App
+# 🥒 Rick and Morty Web Application! 🥒
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This is a funny and basic project for practice web development on client side using React. This web application can list and search characters from Rick and Morty consuming a public REST api (https://rickandmortyapi.com/).  
 
-## Available Scripts
+# How to run this project
 
-In the project directory, you can run:
+For run this project in your local network execute the next commands:
 
-### `npm start`
+ 1. Clone this project
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+     $ git clone https://github.com/GuillermoMCasanova/RickAndMorty.git
 
-The page will reload if you make edits.\
-You will also see any lint errors in the console.
+ 2. Install dependencies
+ 
+      $ npm install
 
-### `npm test`
+ 3. Run
+ 
+    $ npm start
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+## Screens![Homepage](https://scontent.fuio17-1.fna.fbcdn.net/v/t1.15752-9/142934165_397119248253355_605752483322343027_n.png?_nc_cat=105&ccb=2&_nc_sid=ae9488&_nc_ohc=aRBy0xnkNoQAX803oKj&_nc_ht=scontent.fuio17-1.fna&oh=d59c4afee0b5c96feb7f1631a85221a8&oe=6037BA1D)
+![Characters page](https://scontent.fuio17-1.fna.fbcdn.net/v/t1.15752-9/143419242_708005433246370_2304774869688570666_n.png?_nc_cat=110&ccb=2&_nc_sid=ae9488&_nc_ohc=18k8QUDCYhQAX__6C5l&_nc_ht=scontent.fuio17-1.fna&oh=1eab06c5463c47ab1928f23d6d8ecd5f&oe=6039219D)
 
-### `npm run build`
-
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
-
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
-
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
-### `npm run eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
-
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
-
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+![Not Found Error page](https://scontent.fuio17-1.fna.fbcdn.net/v/t1.15752-9/143674236_436016637520955_509524313058146706_n.png?_nc_cat=106&ccb=2&_nc_sid=ae9488&_nc_ohc=DF5yWmVI8RsAX-v6Pq7&_nc_ht=scontent.fuio17-1.fna&oh=f491960281e8cda5d838e4d02ce6c0f8&oe=6037088B)
