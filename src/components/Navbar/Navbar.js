@@ -30,7 +30,7 @@ function Navbar(props) {
               className='nav-link'
               target='_blank'
               rel='noreferrer'
-              href='https://github.com/'
+              href='https://github.com/GuillermoMCasanova/RickAndMorty'
             >
               About this project
             </a>

@@ -2,6 +2,8 @@
 
 This is a funny and basic project for practice web development on client side using React. This web application can list and search characters from Rick and Morty consuming a public REST api (https://rickandmortyapi.com/).  
 
+This projects was deployed using firebase and it is accessible through the following link: [Access here](https://rick-and-morty-c0d60.web.app/)
+
 # How to run this project
 
 For run this project in your local network execute the next commands:
