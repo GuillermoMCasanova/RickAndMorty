@@ -10,7 +10,7 @@ function CharacterCard(props) {
       <div className='card-body'>
         <h5 className='card-title text-info'>{name}</h5>
         <p className='card-text'>
-          {species} {gender}
+          {gender} {species.toLowerCase()} 
         </p>
       </div>
     </div>
