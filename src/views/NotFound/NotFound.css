@@ -1,0 +1,32 @@
+.notfound-div {
+  background-image: url(../../images/not_found.jpeg);
+  background-size: cover;
+  background-position: top;
+  min-height: 100%;
+  height: 100vh;
+  position: relative;
+}
+
+.notfound-cover {
+  position: absolute;
+  height: 100%;
+  width: 100%;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  background-size: cover;
+  background-color: black;
+  opacity: 75%;
+}
+
+.notfound-dialog {
+  position: fixed;
+  top: 50%;
+  left: 50%;
+  -webkit-transform: translate(-50%, -50%);
+  transform: translate(-50%, -50%);
+  align-items: center;
+}
+
+.notfound-message {
+  color: white;
+}
